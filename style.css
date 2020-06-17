@@ -1,0 +1,63 @@
+img {
+  width: 800px;
+  height: 300px;
+  position: relative;
+  left: 600px;
+}
+h1 {
+  text-transform: uppercase;
+  position: relative;
+  left: 600px;
+}
+h2 {
+  position: relative;
+  left: 600px;
+}
+
+blockquote{
+  display: block;
+  background: #444;
+  width: 700px;
+  color: #fff;
+  font-size: 40px;
+  padding: 50px 0 50px 50px;
+  font-family: 'Abril Fatface';
+  position: relative;
+  left: 600px;
+}
+
+p {
+  width: 680px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 15px;
+  position: relative;
+  left: 600px;
+}
+ul {
+  list-style-type: square;
+}
+li {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 15px;
+  position: relative;
+  left: 600px;
+}
+i {
+  position: relative;
+  left: 600px;
+}
+#myname {
+  position: absolute;
+  top: 42%;
+  left: 32%;
+  color: #222;
+  font-weight: normal;
+  line-height: 100%;
+  margin: 0;
+}
+.uvozovka {
+  position: absolute;
+  bottom: 15px;
+  left: 0px;
+  font-size: 140px;
+}
